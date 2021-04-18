@@ -31,6 +31,10 @@ func two() int {
 	return 2
 }
 
+func three() int {
+	return 3
+}
+
 func main() {
 	fmt.Println("hello world!")
 }
