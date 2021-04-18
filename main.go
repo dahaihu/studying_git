@@ -19,6 +19,10 @@ func fourth(a, b int) int {
 	return a - 1
 }
 
+func five(a, b int) int {
+	return 5
+}
+
 func main() {
 	fmt.Println("hello world!")
 }
