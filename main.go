@@ -27,6 +27,10 @@ func one() int {
 	return 1
 }
 
+func two() int {
+	return 2
+}
+
 func main() {
 	fmt.Println("hello world!")
 }
