@@ -23,6 +23,10 @@ func five(a, b int) int {
 	return 5
 }
 
+func one() int {
+	return 1
+}
+
 func main() {
 	fmt.Println("hello world!")
 }
