@@ -23,9 +23,16 @@ func five(a, b int) int {
 	return 5
 }
 
+func one() int {
+	return 1
+}
 
 func two() int {
 	return 2
+}
+
+func three() int {
+	return 3
 }
 
 func main() {
